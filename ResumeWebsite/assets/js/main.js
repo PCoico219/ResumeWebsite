@@ -78,7 +78,7 @@ jQuery(document).ready(function ($) {
      * STICKY scroll
      ---------------------------------------------*/
 
-//    $.localScroll();
+    $.localScroll();
 
 
 
