@@ -515,6 +515,7 @@ textarea::-ms-input-placeholder
 }
 .features-item{
     padding-top: 84px;
+    text-transform:uppercase;
 }
 .features-item i{
     font-size:40px;
